@@ -1,0 +1,20 @@
+{
+  "StockiestGST": "07AAFCI8134F1ZM",
+  "InstituteGST": "07AADCM0815B1Z4",
+  "InvoiceDate": "06 Oct 2023",
+  "IRN64Digit": "bee8cb726fccfd8fcf32e0afb0f29a5a651c977a6585ab49997c37c70b7bd2a6",
+  "LineItems": [
+    {
+      "Description": "ECONORM 250 MG CAP 65",
+      "Qty": "15",
+      "Rate": "136.780",
+      "GSTPercent": "6.0% + 6.0%"
+    },
+    {
+      "Description": "ECONORM 250 MG SACHET 765 MG",
+      "Qty": "60",
+      "Rate": "34.760",
+      "GSTPercent": "6.0% + 6.0%"
+    }
+  ]
+}
